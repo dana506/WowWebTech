@@ -36,7 +36,7 @@ https://www.monzo.com
 
 ### *_Team Management and Application Components & Entities KANBAN Board on Trello Website_*
 
-https://trello.com/b/i0uR1nT8/web-tech-project-kanbans
+https://trello.com/b/i0uR1nT8/web-tech-project-kanban
 
 
 
