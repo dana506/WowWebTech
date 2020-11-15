@@ -47,12 +47,12 @@ https://trello.com/b/i0uR1nT8/web-tech-project-kanban
 ### *_Mockups for Application Interface with Components & Entities, API Calls and User Actions_*
 
 
-![Step 1](https://github.com/dana506/WowWebTech/blob/main/1.png)
+![Step 1](https://github.com/dana506/WowWebTech/blob/main/Pictures/1.png)
 
-![Step 2](https://github.com/dana506/WowWebTech/blob/main/2.png)
+![Step 2](https://github.com/dana506/WowWebTech/blob/main/Pictures/2.png)
 
-![Step 3](https://github.com/dana506/WowWebTech/blob/main/3.png)
+![Step 3](https://github.com/dana506/WowWebTech/blob/main/Pictures/3.png)
 
-![Step 4](https://github.com/dana506/WowWebTech/blob/main/4.png)
+![Step 4](https://github.com/dana506/WowWebTech/blob/main/Pictures/4.png)
 
-![Step 5](https://github.com/dana506/WowWebTech/blob/main/5.png)
+![Step 5](https://github.com/dana506/WowWebTech/blob/main/Pictures/5.png)
