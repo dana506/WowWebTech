@@ -36,7 +36,7 @@ https://www.monzo.com
 
 ### *_Team Management KANBAN Board on Trello Website_*
 
-https://trello.com/b/i0uR1nT8/web-tech-project-kanban
+https://trello.com/b/i0uR1nT8/wowwebtech-project-kanban
 
 
 
