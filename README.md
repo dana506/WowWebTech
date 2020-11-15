@@ -42,6 +42,63 @@ https://trello.com/b/i0uR1nT8/web-tech-project-kanban
 
 ### *_API REST_*
 
++ _Requests_
+
+```
+GET / CATEGORIES / :ID / INCOME 
+
+GET / CATEGORIES / :ID / EXPENSES
+
+GET / expenses?search={category}&orderBy={orderBySum}
+
+GET / expenses?search={category}&orderBy={orderByDate}
+
+GET / income?search={category}&orderBy={orderBySum}
+
+GET / income?search={category}&orderBy={orderByDate}
+
+PUT / SAVING
+
+GET / saving?search={sum}&orderBy={orderByDate}
+
+GET/ SAVING_TOTAL
+
+PUT / RECURRING_BILL
+
+DELETE / RECURRING_BILL
+
+POST / CHART
+
+POST / FORECAST
+
+POST / PDF
+
+PUT / BUDGET_ALERTS
+
+POST / SYNC ACCOUNTS
+```
+
++ _Responses_
+
+```
+ HTTP/1.1
+ 
+ HTTP/1.1 404 Not Found
+ 
+ HTTP/1.1 200 OK. The request has succeeded.
+ 
+ HTTP/1.1 [ 
+  {
+    "Expense Category": "Utilities",
+    "Expense Sum ": "200.00",  
+    "Expense Date": "20.05.2020"
+  } ]
+  
+  HTTP/1.1 [ 
+  {
+    "Total Savings ": "4500.00",  
+  }]
+  ```
 
 
 ### *_Mockups for Application Interface with Components & Entities, API Calls and User Actions_*
