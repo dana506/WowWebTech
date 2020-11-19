@@ -5,7 +5,7 @@
 
 ### *_Scope_*
 
-Developing a web application which allows the user to better manage their accounts and keep track of their finances.
+Developing a web application which allows the user to better manage his groceries by sharing the food they no longer need with friends and accountancies.
 
 
 ### *_Description_*
