@@ -1,6 +1,6 @@
-#### WowWebTech
+#### WowWebTech TEAM
 
-# **Web Application for Personal Money Management**
+# **Web Application for Fighting Food Waste: _Food Gone Good_**
 
 
 ### *_Scope_*
