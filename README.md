@@ -37,6 +37,17 @@ https://foodtank.com/
 https://trello.com/b/i0uR1nT8/wowwebtech-project-kanban
 
 
+### *_Team Roles_* 
+
+
+#### PRODUCT OWNER: Dana Buzatu (Researcher)
+
+#### PROCESS COORDINATOR: Ana Cojocaru (Data Analyst)
+
+#### FULL-STACK DEVELOPERS: Alexandra Becheru, Rafael Belcu, Dana Buzatu, Ana Cojocaru
+
+#### TESTERS: Alexandra Becheru (PR), Rafael Belcu (Proof Reader)
+
 
 ### *_API REST_*
 
@@ -111,3 +122,5 @@ POST / SYNC ACCOUNTS
 ![Step 4]
 
 ![Step 5]
+
+
