@@ -43,7 +43,6 @@ https://foodtank.com/
 
 ![Step 3](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/3.png)
 
-![Step 4](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/4.png)
 
 ![Step 5](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/5.png)
 
