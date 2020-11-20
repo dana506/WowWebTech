@@ -5,12 +5,12 @@
 
 ### *_Scope_*
 
-Developing a web application which allows the user to better manage his groceries by sharing the food they no longer need with friends and accountancies.
+Developing a Web Application which allows the user to better manage their groceries by sharing the food they no longer need with friends and accountancies.
 
 
 ### *_Description_*
 
-Thie *Food Gone Good* Web App encourages a sense of community, frugality and intentional living in regards to our groceries choices. These are achieved in a fun way by allowing the user to log his groceries which are no longer needed, provide an expiration date and categorize in order to suit other members of the community tastes. For example, some of the categories could imply: diet choices, allergies, food preferences or even food groups. Considering these categories, user can also  include the friends and accountancies preferences and group them in order for them to be notified to check the products up. Any user can claim products in other user's ist. The app allows sharing on social media platforms.
+This *Food Gone Good* Web App encourages a sense of community, frugality and intentional living with regards to our grocery choices. These are achieved in a fun way by allowing the user to log their groceries that are no longer needed, provide an expiration date and categorize in order to suit other members of the community's tastes. For example, some of the categories could include: dietary choices, allergies, food preferences or even food groups. Considering these categories, the user can also include their friends and accountancies' preferences and group them in order for them to be notified to check the products up. Any user can claim products in other user's ist. The app allows sharing on social media platforms.
 
 
 ### *_Examples_*
