@@ -32,25 +32,21 @@ Food Tank
 
 https://foodtank.com/
 
-### *_Team Management KANBAN Board on Trello Website_*
-
-https://trello.com/b/i0uR1nT8/wowwebtech-project-kanban
 
 
-### *_Team Roles_* 
+### *_Mockups for Application Interface with Components & Entities, API Calls and User Actions_*
 
 
-#### PRODUCT OWNER:
-_Dana Buzatu (Researcher)_
+![Step 1](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/1.png)
 
-#### PROCESS COORDINATOR: 
-_Ana Cojocaru (Data Analyst)_
+![Step 2](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/2.png)
 
-#### FULL-STACK DEVELOPERS:
-_Alexandra Becheru, Rafael Belcu, Dana Buzatu, Ana Cojocaru_
+![Step 3](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/3.png)
 
-#### TESTERS:
-_Alexandra Becheru (PR), Rafael Belcu (Proof Reader)_
+![Step 4](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/4.png)
+
+![Step 5](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/5.png)
+
 
 
 ### *_API REST_*
@@ -113,18 +109,23 @@ POST / SYNC ACCOUNTS
   }]
   ```
 
+### *_Team Management KANBAN Board on Trello Website_*
 
-### *_Mockups for Application Interface with Components & Entities, API Calls and User Actions_*
+https://trello.com/b/i0uR1nT8/wowwebtech-project-kanban
 
 
-![Step 1]
+### *_Team Roles_* 
 
-![Step 2]
 
-![Step 3]
+#### PRODUCT OWNER:
+_Dana Buzatu (Data Analyst)_
 
-![Step 4]
+#### PROCESS COORDINATOR: 
+_Ana Cojocaru (Researcher)_
 
-![Step 5]
+#### FULL-STACK DEVELOPERS:
+_Alexandra Becheru, Rafael Belcu, Dana Buzatu, Ana Cojocaru_
 
+#### TESTERS:
+_Alexandra Becheru (PR), Rafael Belcu (Proof Reader)_
 
