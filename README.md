@@ -40,13 +40,17 @@ https://trello.com/b/i0uR1nT8/wowwebtech-project-kanban
 ### *_Team Roles_* 
 
 
-#### PRODUCT OWNER: Dana Buzatu (Researcher)
+#### PRODUCT OWNER:
+_Dana Buzatu (Researcher)_
 
-#### PROCESS COORDINATOR: Ana Cojocaru (Data Analyst)
+#### PROCESS COORDINATOR: 
+_Ana Cojocaru (Data Analyst)_
 
-#### FULL-STACK DEVELOPERS: Alexandra Becheru, Rafael Belcu, Dana Buzatu, Ana Cojocaru
+#### FULL-STACK DEVELOPERS:
+_Alexandra Becheru, Rafael Belcu, Dana Buzatu, Ana Cojocaru_
 
-#### TESTERS: Alexandra Becheru (PR), Rafael Belcu (Proof Reader)
+#### TESTERS:
+_Alexandra Becheru (PR), Rafael Belcu (Proof Reader)_
 
 
 ### *_API REST_*
