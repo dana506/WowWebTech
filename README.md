@@ -97,12 +97,12 @@ POST / SYNC ACCOUNTS
 ### *_Mockups for Application Interface with Components & Entities, API Calls and User Actions_*
 
 
-![Step 1](https://github.com/dana506/WowWebTech/blob/main/Pictures/1.png)
+![Step 1]
 
-![Step 2](https://github.com/dana506/WowWebTech/blob/main/Pictures/2.png)
+![Step 2]
 
-![Step 3](https://github.com/dana506/WowWebTech/blob/main/Pictures/3.png)
+![Step 3]
 
-![Step 4](https://github.com/dana506/WowWebTech/blob/main/Pictures/4.png)
+![Step 4]
 
-![Step 5](https://github.com/dana506/WowWebTech/blob/main/Pictures/5.png)
+![Step 5]
