@@ -10,21 +10,25 @@ Developing a Web Application which allows the user to better manage their grocer
 
 ### *_Description_*
 
-This *_Food Gone Good_* Web App encourages a sense of community, frugality and intentional living with regards to our grocery choices. These are achieved in a fun way by allowing the user to log their groceries that are no longer needed, provide an expiration date and categorize in order to suit other members of the community's tastes. For example, some of the categories could include: dietary choices, allergies, food preferences or even food groups. Considering these categories, the user can also include their friends and accountancies' preferences and group them in order for them to be notified to check the products up. Any user can claim products in other user's ist. The app allows sharing on social media platforms.
+This *Food Gone Good* Web App encourages a sense of community, frugality and intentional living with regards to our grocery choices. These are achieved in a fun way by allowing the user to log their groceries that are no longer needed, provide an expiration date and categorize in order to suit other members of the community's tastes. For example, some of the categories could include: dietary choices, allergies, food preferences or even food groups. Considering these categories, the user can also include their friends and accountancies' preferences and group them in order for them to be notified to check the products up. Any user can claim products in other user's ist. The app allows sharing on social media platforms.
 
 
 ### *_Examples_*
 
 Olio
+
 https://olioex.com/
 
 Food Cowboy
+
 https://www.foodcowboy.com
 
 Food Rescue Hero
+
 https://412foodrescue.org/programs/foodrescuehero/
 
 Food Tank
+
 https://foodtank.com/
 
 ### *_Team Management KANBAN Board on Trello Website_*
