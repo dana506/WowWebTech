@@ -43,6 +43,7 @@ https://foodtank.com/
 
 ![Step 3](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/3.png)
 
+![Step 4](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/4.png)
 
 ![Step 5](https://github.com/dana506/WowWebTech/blob/main/frontend/Documentation/Pictures/5.png)
 
@@ -53,37 +54,33 @@ https://foodtank.com/
 + _Requests_
 
 ```
-GET / CATEGORIES / :ID / INCOME 
+GET / Categories/ :ID / Inventory
 
-GET / CATEGORIES / :ID / EXPENSES
+GET / Categories/ :ID/ Create Friend Group
 
-GET / expenses?search={category}&orderBy={orderBySum}
+GET / inventory?search={products/ :available}&orderBy={orderByClaimedBy}
 
-GET / expenses?search={category}&orderBy={orderByDate}
+GET / inventory?search={products}&orderBy={orderByDateExp}
 
-GET / income?search={category}&orderBy={orderBySum}
+GET / Products From DB?search={Products/ :count}&orderBy = {Category}
 
-GET / income?search={category}&orderBy={orderByDate}
+PUT / Send Invite/ Friend Group Name/ Products 
 
-PUT / SAVING
+PUT / FG Name/ Add New Friend Group
 
-GET / saving?search={sum}&orderBy={orderByDate}
+PUT / FG Name/ Send Invite Friend Group
 
-GET/ SAVING_TOTAL
+PUT / Alert/ Inventory
 
-PUT / RECURRING_BILL
+DELETE / Friend Group Name / :ID/ Create Friend Group
 
-DELETE / RECURRING_BILL
+DELETE / Product/ :ID/ Inventory
 
-POST / CHART
+POST / Claim Now/ Products From DB
 
-POST / FORECAST
+POST / Alerts Settings/ Inventory
 
-POST / PDF
-
-PUT / BUDGET_ALERTS
-
-POST / SYNC ACCOUNTS
+POST / Facebook/ :Product/ Inventory
 ```
 
 + _Responses_
@@ -97,15 +94,19 @@ POST / SYNC ACCOUNTS
  
  HTTP/1.1 [ 
   {
-    "Expense Category": "Utilities",
-    "Expense Sum ": "200.00",  
-    "Expense Date": "20.05.2020"
-  } ]
+    "Inventory Product": "Tofu",
+    "Inventory Category": "Dietary Preferences" "Vegan",
+    "Inventory Date Exp": "20.05.2020", 
+    "Inventory Available": "NO", 
+    "Inventory Claimed by": "Alex Rosenberg"
+    } ]
   
   HTTP/1.1 [ 
   {
-    "Total Savings ": "4500.00",  
-  }]
+    "Friend Group Name": "The Plant based ones",
+    "Friends Group Category": "Dietary Preferences",
+    "Friends Group Subcategory": "Vegan",   
+    }]
   ```
 
 ### *_Team Management KANBAN Board on Trello Website_*
