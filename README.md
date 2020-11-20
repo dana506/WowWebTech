@@ -10,29 +10,22 @@ Developing a web application which allows the user to better manage his grocerie
 
 ### *_Description_*
 
-This Web Application facilitates actions such as: synchronizing accounts, establishing monthly budgeting, tracking expenses and earnings and schedule bill payments.
-The platform is based on a Single Page Application architecture. It is a responsive application being accessible on a desktop, mobile or tablet browser (depending on user preferences).
-
-
-### *_(Minimal) Functionality_*
-
-As a user, I can connect multiple bank accounts from as many financial institutions as I desire using their external API.
-
-As a user, I can track everything which counts as an expense or income stream, based on a specific spending category, predict my monthly budget and log my recurring bills.
-
-As a user I can choose to see the charts and reports (PDF, CSV) of my expenses based on categories. Nevertheless the application has an additional feature that allows me, the user, to forecast my spending behaviour.
-
-As a user, I can set budget alerts and manage my savings in a recurring manner.
+Thie *Food Gone Good* Web App encourages a sense of community, frugality and intentional living in regards to our groceries choices. These are achieved in a fun way by allowing the user to log his groceries which are no longer needed, provide an expiration date and categorize in order to suit other members of the community tastes. For example, some of the categories could imply: diet choices, allergies, food preferences or even food groups. Considering these categories, user can also  include the friends and accountancies preferences and group them in order for them to be notified to check the products up. Any user can claim products in other user's ist. The app allows sharing on social media platforms.
 
 
 ### *_Examples_*
 
-Mint
-https://www.mint.com
+Olio
+https://olioex.com/
 
-Monzo
-https://www.monzo.com
+Food Cowboy
+https://www.foodcowboy.com
 
+Food Rescue Hero
+https://412foodrescue.org/programs/foodrescuehero/
+
+Food Tank
+https://foodtank.com/
 
 ### *_Team Management KANBAN Board on Trello Website_*
 
